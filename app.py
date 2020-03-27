@@ -30,8 +30,8 @@ def getQuote():
         url = "https://quotes15.p.rapidapi.com/quotes/random/"
         querystring = {"language_code":"en"}
         headers = {
-            'x-rapidapi-host': "quotes15.p.rapidapi.com",
-            'x-rapidapi-key': "db2b1e996bmshfc3b089fc27f101p14313ajsn8b1ee35c9979"
+            'x-rapidapi-host': "",
+            'x-rapidapi-key': ""
             }
 
         response = requests.request("GET", url, headers=headers, params=querystring)
