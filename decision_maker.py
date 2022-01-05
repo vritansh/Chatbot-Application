@@ -9,8 +9,12 @@ def decision_analyser(predicted_value):
                   
                if predicted_value=="Social_Skill" : 
                   print("Fetch Done") 
-               if predicted_value == "Stock_Preduction" :
+               if predicted_value == "Stock_Prediction" :
                   print("Stock Found") 
+               if predicted_value=="Operations":
+                  print("Operations")
+               if predicted_value=="Lexer"
+                  print("Lexer")
          
     
     
