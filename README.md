@@ -1,5 +1,5 @@
+<h1> NLP Chatbot using Dialogflow and What's App <h1> 
 
-Send any message and you'll receive a quote in return.
 Technology Stack Used:
 
 Twilio - Whatsapp Sandbox Number
@@ -9,3 +9,5 @@ AWS EC2 - For hosting the webhook
 Whatsapp
 
 Get the whats app notificaitons for the covid outbreaks. It is a contextual chatbot which is fully functional backed by Dialogflow 
+
+![alt text](https://github.com/vritansh/portfoliooptimization/blob/main/ArchitectureStockPortfolioManagement.drawio.png?raw=true)
