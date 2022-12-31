@@ -10,4 +10,4 @@ Whatsapp
 
 Get the whats app notificaitons for the covid outbreaks. It is a contextual chatbot which is fully functional backed by Dialogflow 
 
-![alt text](https://github.com/vritansh/portfoliooptimization/blob/main/ArchitectureStockPortfolioManagement.drawio.png?raw=true)
+![alt text](https://github.com/vritansh/Chatbot-Application/blob/master/whatsapp-bot-architecture.png?raw=true)
