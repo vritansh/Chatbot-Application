@@ -9,5 +9,6 @@ AWS EC2 - For hosting the webhook
 Whatsapp
 
 Get the whats app notificaitons for the covid outbreaks. It is a contextual chatbot which is fully functional backed by Dialogflow 
-
+  <h2> Architecture </h2>
+  
 ![alt text](https://github.com/vritansh/Chatbot-Application/blob/master/whatsapp-bot-architecture.png?raw=true)
